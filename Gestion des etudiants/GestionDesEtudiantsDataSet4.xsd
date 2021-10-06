@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GestionDesEtudiantsDataSet4" targetNamespace="http://tempuri.org/GestionDesEtudiantsDataSet4.xsd" xmlns:mstns="http://tempuri.org/GestionDesEtudiantsDataSet4.xsd" xmlns="http://tempuri.org/GestionDesEtudiantsDataSet4.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="GestionDesEtudiantsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="GestionDesEtudiantsConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Gestion_des_etudiants.Properties.Settings.GlobalReference.Default.GestionDesEtudiantsConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="EtudiantTableAdapter" GeneratorDataComponentClassName="EtudiantTableAdapter" Name="Etudiant" UserDataComponentName="EtudiantTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GestionDesEtudiantsConnectionString (Settings)" DbObjectName="GestionDesEtudiants.dbo.Etudiant" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nomFiliere FROM dbo.Etudiant</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nomFiliere" DataSetColumn="nomFiliere" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GestionDesEtudiantsDataSet4" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="GestionDesEtudiantsDataSet4" msprop:Generator_UserDSName="GestionDesEtudiantsDataSet4">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Etudiant" msprop:Generator_TableClassName="EtudiantDataTable" msprop:Generator_TableVarName="tableEtudiant" msprop:Generator_TablePropName="Etudiant" msprop:Generator_RowDeletingName="EtudiantRowDeleting" msprop:Generator_RowChangingName="EtudiantRowChanging" msprop:Generator_RowEvHandlerName="EtudiantRowChangeEventHandler" msprop:Generator_RowDeletedName="EtudiantRowDeleted" msprop:Generator_UserTableName="Etudiant" msprop:Generator_RowChangedName="EtudiantRowChanged" msprop:Generator_RowEvArgName="EtudiantRowChangeEvent" msprop:Generator_RowClassName="EtudiantRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nomFiliere" msprop:Generator_ColumnVarNameInTable="columnnomFiliere" msprop:Generator_ColumnPropNameInRow="nomFiliere" msprop:Generator_ColumnPropNameInTable="nomFiliereColumn" msprop:Generator_UserColumnName="nomFiliere" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="220" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,77 @@
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Gestion des etudiants.exe.config
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Gestion des etudiants.exe
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Gestion des etudiants.pdb
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion des etudiants.csprojAssemblyReference.cache
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.Form1.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.Properties.Resources.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion des etudiants.csproj.GenerateResource.cache
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion des etudiants.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion des etudiants.exe
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion des etudiants.pdb
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.Filiere.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.Etudiant.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.Importer_les_données.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.Statistique.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.ReportingEtudiant.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\RdlCompile.cache
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\RdlCompile.compiled
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion des etudiants.csproj.CopyComplete
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\obj\Debug\Gestion_des_etudiants.reporting.resources
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\EnvDTE.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\stdole.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\Microsoft.MSXML.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abc\source\repos\Gestion des etudiants\Gestion des etudiants\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
